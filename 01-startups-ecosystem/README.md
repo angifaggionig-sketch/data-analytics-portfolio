@@ -1,5 +1,8 @@
 # 🚀 Proyecto 01 — Ecosistema Global de Startups
 
+![Dashboard Preview](dashboard-preview.png)
+```
+
 ## 📌 Descripción
 Análisis del ecosistema mundial de startups usando datos reales de Crunchbase.
 El dashboard responde preguntas clave sobre inversión, geografía y tendencias históricas.
@@ -42,8 +45,6 @@ Lo más sorprendente no es solo cuánto invierte USA, sino que lo hace en todos 
 | Top 10 Sectores | Industrias con más financiamiento |
 | Evolución Anual | Tendencia histórica de inversión 1900-2015 |
 | Top 10 Startups | Empresas con mayor inversión recibida |
-
-![Dashboard Preview](dashboard-preview.png)
 
 ## 📁 Archivos
 - `startup-ecosystem-dashboard.pbix` — Dashboard en Power BI
