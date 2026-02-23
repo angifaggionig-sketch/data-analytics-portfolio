@@ -43,6 +43,8 @@ Lo más sorprendente no es solo cuánto invierte USA, sino que lo hace en todos 
 | Evolución Anual | Tendencia histórica de inversión 1900-2015 |
 | Top 10 Startups | Empresas con mayor inversión recibida |
 
+![Dashboard Preview](dashboard-preview.png)
+
 ## 📁 Archivos
 - `startup-ecosystem-dashboard.pbix` — Dashboard en Power BI
 - `investments_VC.csv` — Dataset original (Crunchbase via Kaggle)
