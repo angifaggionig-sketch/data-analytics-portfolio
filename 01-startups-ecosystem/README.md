@@ -97,4 +97,4 @@ de inversión con métricas de crecimiento por sector.
 ---
 
 **Angelina Faggioni** · Ingeniera en Sistemas | Analista de Datos · Ecuador  
-[LinkedIn](#) · [Portafolio](../../README.md)
+[LinkedIn](www.linkedin.com/in/angelina-faggioni-game) · [Portafolio](../../README.md)
