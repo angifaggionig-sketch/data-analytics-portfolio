@@ -41,4 +41,5 @@ No hay un nicho específico — hay una apuesta transversal por la innovación.
 [Crunchbase Startup Investments — Kaggle](https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase)
 
 ---
+
 *Angelina Faggioni — Ecuador 🇪🇨*
