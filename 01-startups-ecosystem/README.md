@@ -1,6 +1,6 @@
 # 🚀 Proyecto 01 — Ecosistema Global de Startups
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.PNG)
 ```
 
 ## 📌 Descripción
